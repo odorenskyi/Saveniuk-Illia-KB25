@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774557147 source:c:\users\ilyas\saveniuk-illia-kb25\lab8\sofrware\saveniuk-illia-kb25\main.cpp
+	<iostream>
+	<iomanip>
+	<clocale>
+	"ModulesSaveniuk.h"
+
+1774551014 c:\users\ilyas\saveniuk-illia-kb25\lab8\prj\modulessaveniuk\modulessaveniuk.h
+
+1774554387 c:\users\ilyas\saveniuk-illia-kb25\lab8\sofrware\saveniuk-illia-kb25\modulessaveniuk.h
+
