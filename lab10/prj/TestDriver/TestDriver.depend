@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1778355592 source:d:\lab10\prj\testdriver\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"ModulesSaveniuk.h"
+
+1778355019 d:\lab10\prj\modulessaveniuk\modulessaveniuk.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1778355019 source:d:\lab10\prj\modulessaveniuk\modulessaveniuk.cpp
+	"ModulesSaveniuk.h"
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+
+1778355019 d:\lab10\prj\modulessaveniuk\modulessaveniuk.h
+
