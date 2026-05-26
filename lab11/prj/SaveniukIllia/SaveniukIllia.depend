@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1779815865 source:d:\lab11\prj\saveniukillia\main.cpp
+	<iostream>
+	<windows.h>
+	"registry_saveniuk.h"
+
+1779816211 d:\lab11\prj\saveniukillia\registry_saveniuk.h
+	<iostream>
+	<fstream>
+	"struct_type_project_5.h"
+
+1779815298 d:\lab11\prj\saveniukillia\struct_type_project_5.h
+
