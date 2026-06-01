@@ -1,0 +1,6 @@
+Test Case ID -> Action -> Expected Result -> Test Result
+---------------------------------------------------------
+TC01 -> Set Radius: 5 -> Expected Area: 78.5398 -> PASSED (Actual: 78.5398)
+TC02 -> Set Radius: 10 -> Expected Area: 314.159 -> PASSED (Actual: 314.159)
+TC03 -> Set Radius: 1 -> Expected Area: 3.1416 -> PASSED (Actual: 3.14159)
+TC04 -> Set Radius: 2.5 -> Expected Area: 19.635 -> PASSED (Actual: 19.635)

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1780329539 source:d:\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<windows.h>
+	"ModulesSaveniuk.h"
+
+1780329226 d:\lab12\prj\teacher\modulessaveniuk.h
+	<cmath>
+
